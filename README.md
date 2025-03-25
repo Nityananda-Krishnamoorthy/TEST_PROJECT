@@ -13,3 +13,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 ```bash
    simple interest = p*t*r
 ```
+## License
+
+Apache 2.0 License
